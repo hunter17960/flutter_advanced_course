@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_advanced_course/core/helpers/extentions.dart';
+import 'package:flutter_advanced_course/core/helpers/extensions.dart';
 import 'package:flutter_advanced_course/core/routing/routes.dart';
 import 'package:flutter_advanced_course/core/theming/colors.dart';
 import 'package:flutter_advanced_course/core/theming/styles.dart';
