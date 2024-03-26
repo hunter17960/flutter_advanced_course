@@ -1,3 +1,5 @@
+// ignore_for_file: constant_identifier_names
+
 import 'package:dio/dio.dart';
 import 'package:flutter_advanced_course/core/networking/api_error_model.dart';
 import 'package:flutter_advanced_course/core/networking/api_constants.dart';
